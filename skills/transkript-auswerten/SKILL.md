@@ -56,6 +56,7 @@ im Transkript steht und was du vermutest.
     `unbekannt`, keine Vermutung über die Bedeutung
   - **Sätze, die ein Erkennungsfehler ins Gegenteil verkehren könnte**, etwa „das
     schaffen wir nicht“ statt „das schaffen wir noch“
+  - **Unklare Formulierungen**, fremdsprachige Wörter und Begrifflichkeiten, die du nicht zuordnen oder verstehen kannst.
 
 Nimm nur auf, was die Bedeutung einer Zeile verändern könnte. Dass du einen Namen nicht
 überprüfen oder eine Person, Rolle oder Abkürzung nicht zuordnen kannst, reicht dafür
