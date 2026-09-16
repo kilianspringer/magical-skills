@@ -4,7 +4,7 @@ description: Wertet ein Meeting-Transkript aus und sortiert den Inhalt in fünf 
 license: MIT
 metadata:
   author: "Kilian Springer (kilian-springer.com)"
-  version: "1.0"
+  version: "1.1"
 ---
 
 # Transkript auswerten

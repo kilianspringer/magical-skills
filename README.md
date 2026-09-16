@@ -1,7 +1,7 @@
 # Kilian's Magical AI Skills
 
 Skills für Claude und andere KI-Assistenten, entstanden in Vorträgen, Workshops und der
-eigenen Arbeit. Die Magie ist ist vielleicht überschaubar, aber nicht weniger erfolgreich: Jeder Skill ist eine Textdatei, die du lesen,
+eigenen Arbeit. Die Magie ist vielleicht überschaubar, aber nicht weniger erfolgreich: Jeder Skill ist eine Textdatei, die du lesen,
 prüfen und an dein Team anpassen kannst.
 
 ## Skills
