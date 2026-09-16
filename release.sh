@@ -28,6 +28,6 @@ done
 ls "$out"/*.zip >/dev/null 2>&1 || { echo "Keine Skills gefunden." >&2; exit 1; }
 
 gh release create "$tag" "$out"/*.zip \
-  --repo kilianspringer/skills \
+  --repo kilianspringer/magical-skills \
   --title "$tag" \
   --notes "Alle Skills als ZIP-Datei zum Hochladen in Claude (Customize → Skills → Upload a skill)."

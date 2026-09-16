@@ -60,7 +60,7 @@ Voraussetzung: Die Code-Ausführung ist eingeschaltet (**Settings → Capabiliti
 Team- und Enterprise-Konten schaltet das die Organisation frei.
 
 1. Lade
-   [transkript-auswerten.zip](https://github.com/kilianspringer/skills/releases/latest/download/transkript-auswerten.zip)
+   [transkript-auswerten.zip](https://github.com/kilianspringer/magical-skills/releases/latest/download/transkript-auswerten.zip)
    herunter.
 2. Öffne in Claude **Customize → Skills**, klicke auf „+“, dann **Create skill** und
    **Upload a skill**, und wähle die ZIP-Datei aus.
@@ -71,9 +71,9 @@ Die aktuelle Anleitung von Anthropic:
 ### Claude Code
 
 ```bash
-git clone https://github.com/kilianspringer/skills.git kilian-skills
+git clone https://github.com/kilianspringer/magical-skills.git
 mkdir -p ~/.claude/skills
-cp -r kilian-skills/skills/transkript-auswerten ~/.claude/skills/
+cp -r magical-skills/skills/transkript-auswerten ~/.claude/skills/
 ```
 
 ### ChatGPT, Microsoft Copilot und andere

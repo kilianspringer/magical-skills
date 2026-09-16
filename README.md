@@ -8,7 +8,7 @@ prüfen und an dein Team anpassen kannst.
 
 | Skill | Was er macht | Download |
 |---|---|---|
-| [transkript-auswerten](skills/transkript-auswerten/) | Sortiert ein Meeting-Transkript in Entscheidungen, Aufgaben, Risiken, offene Fragen und Signale, jede Zeile mit wörtlicher Fundstelle | [ZIP](https://github.com/kilianspringer/skills/releases/latest/download/transkript-auswerten.zip) |
+| [transkript-auswerten](skills/transkript-auswerten/) | Sortiert ein Meeting-Transkript in Entscheidungen, Aufgaben, Risiken, offene Fragen und Signale, jede Zeile mit wörtlicher Fundstelle | [ZIP](https://github.com/kilianspringer/magical-skills/releases/latest/download/transkript-auswerten.zip) |
 
 ## Was ist ein Skill?
 
